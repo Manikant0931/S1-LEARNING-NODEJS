@@ -1,7 +1,7 @@
 # Understanding libuv and event loop
 
 ## The event loop in LIBUV operates in four major phases:
-![Event loop phases](./images/Event%20loop%20Phases.png)
+![Event loop phases]!![alt text](image-1.png)
 
 1  **Timers Phase:** In this phase, all callbacks that were set using  `setTimeout` or `setInterval` are executed. These timers are checked, and if their time has expired, their corresponding callbacks are added to the callback queue for execution.
 
