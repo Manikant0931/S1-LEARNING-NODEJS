@@ -1,4 +1,4 @@
-# **Namaste Node.js - Episode 1 Summary**  
+# **Namaste Node.js - Episode 1 Summary :**  
 
 ## **Chapter 01: Introduction to Node.js**  
 
